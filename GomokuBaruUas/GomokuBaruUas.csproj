@@ -79,5 +79,9 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="kisspng-white-color-cosmetics-nail-polish-upload-button-5ac5a6523c9438.9667141115229026102481.png" />
+    <Content Include="pngegg.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
